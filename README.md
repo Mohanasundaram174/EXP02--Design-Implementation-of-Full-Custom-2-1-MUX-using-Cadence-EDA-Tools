@@ -66,4 +66,4 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
 2. The simulation results verified the correct MUX functionality, where the output accurately followed the selected input based on the control signal.
-3. The waveform analysis demonstrated proper switching behavior for different control signal states.
+3. 3. The waveform analysis demonstrated proper switching behavior for different control signal states.
